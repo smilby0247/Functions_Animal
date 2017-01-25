@@ -1,0 +1,6 @@
+C:\Users\smilby0247\Desktop\functions_SCM-master\functions_SCM\bin\Debug\functions_SCM.exe.config
+C:\Users\smilby0247\Desktop\functions_SCM-master\functions_SCM\obj\Debug\functions_SCM.csprojResolveAssemblyReference.cache
+C:\Users\smilby0247\Desktop\functions_SCM-master\functions_SCM\bin\Debug\functions_SCM.exe
+C:\Users\smilby0247\Desktop\functions_SCM-master\functions_SCM\bin\Debug\functions_SCM.pdb
+C:\Users\smilby0247\Desktop\functions_SCM-master\functions_SCM\obj\Debug\functions_SCM.exe
+C:\Users\smilby0247\Desktop\functions_SCM-master\functions_SCM\obj\Debug\functions_SCM.pdb
